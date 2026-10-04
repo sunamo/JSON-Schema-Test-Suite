@@ -1,7 +1,10 @@
 ---
-schema_version: 10
+schema_version: 11
 type: forked-notmine-library
+category_override: none
 file_count: 556
+file_extensions: json:542, noext:7, md:6, yml:4, ini:1, ts:1
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 169
 total_lines: 0
 metrics_lm: 2026-10-04 16:02:36
